@@ -1,0 +1,13 @@
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\bin\Debug\netcoreapp3.1\OperatorsAndVariables.exe
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\bin\Debug\netcoreapp3.1\OperatorsAndVariables.deps.json
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\bin\Debug\netcoreapp3.1\OperatorsAndVariables.runtimeconfig.json
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\bin\Debug\netcoreapp3.1\OperatorsAndVariables.runtimeconfig.dev.json
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\bin\Debug\netcoreapp3.1\OperatorsAndVariables.dll
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\bin\Debug\netcoreapp3.1\OperatorsAndVariables.pdb
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.csproj.AssemblyReference.cache
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.AssemblyInfoInputs.cache
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.AssemblyInfo.cs
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.dll
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.pdb
+C:\Users\ripli\Desktop\repos\OperatorsAndVariables\OperatorsAndVariables\obj\Debug\netcoreapp3.1\OperatorsAndVariables.genruntimeconfig.cache
